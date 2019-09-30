@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "ExpandRegions.Vsix": {
+      "commandName": "Project"
+    }
+  }
+}
