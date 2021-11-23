@@ -7,3 +7,4 @@ It's a slimmed down version of "I Hate #Regions" for VS2017. (https://marketplac
 
 * Visual Studio 2017
 * Visual Studio 2019
+* Visual Studio 2022
